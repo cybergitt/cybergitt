@@ -2,7 +2,7 @@
 
 #### I'm a self-taught Software Engineer from Indonesia.
 
-- 🔭 I'm currently working at an multifinance company
+- 🔭 I'm currently working in a multifinance company
 - 🌱 I'm still learning and keeping up-to-date on several programming languages ​​and the latest technologies.
 - 📫 How to reach me: @cybergitt
 - 😄 Pronouns: He / Him / Mr.
